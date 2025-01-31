@@ -1,0 +1,111 @@
+commit fe16a698361af23ead3aab1a1676689512447b9f
+Author: Kirtoisplayz <54968402+ThatOneIndian@users.noreply.github.com>
+Date:   Fri Jan 31 11:53:02 2025 -0800
+
+    Update index.html
+
+commit 8b1ab2fa3a2cd809811f4029eb1db2ae47abe6e7
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:52:41 2025 -0800
+
+    myb they need to copy it first
+
+commit 4b883fe4035d9611a9ad8089a57cc403fab599f9
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:52:14 2025 -0800
+
+    Added a merge conflict
+
+commit b3d6774adddb91eba85909810779811cf9325048
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:50:38 2025 -0800
+
+    Added text files
+
+commit 239a888c24e9acadb3073198a193d71fe6e5bd32
+Merge: 88ed45c df27671
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:48:17 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit df276710d6071cf73456d6562fe88dc46767f87e
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:47:06 2025 -0800
+
+    added game line again
+
+commit 0c5a5bb205133d12cbe8dc07dcded4d8eba11f23
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:46:14 2025 -0800
+
+    apple line again?
+
+commit 94616483cc90c77a4acdacc10e7129fea4cebd93
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:42:33 2025 -0800
+
+    added game line
+
+commit 88ed45c236e7f9200babc9b0bbc2abaeee602b0a
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:42:04 2025 -0800
+
+    added apples line again oops
+
+commit a98c991b77c7de289c5108536482159b842ae5bc
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:41:42 2025 -0800
+
+    oopSIE x4
+
+commit ea69557912bc60019573054ae91b7f17b455d449
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:40:46 2025 -0800
+
+    oopsie x3
+
+commit 33d78c5d24837287fc72c65c10057f26ce624a2f
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:40:25 2025 -0800
+
+    oopsie x2
+
+commit b3066814618f3d7c003670dbda37f8990f0fd81e
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:39:20 2025 -0800
+
+    oopsie
+
+commit f038f43c7ac0cf59e1d534a1830071b2067cf36b
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:38:37 2025 -0800
+
+    Added line talking about apples
+
+commit 4361b7bb116b88e691546a02ceb529a32a5f4adc
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:37:28 2025 -0800
+
+    Added readme
+
+commit 70d854693c68163b0ed0b320548512bbb781232a
+Merge: 1d2bfc0 6bf9b95
+Author: LMorales41 <162576303+LMorales41@users.noreply.github.com>
+Date:   Fri Jan 31 10:35:52 2025 -0800
+
+    Merge pull request #1 from LMorales41/info-fill
+    
+    Filled in blanks
+
+commit 6bf9b95f3a0033611704af99b8eca06ae1014385
+Author: LMorales41 <luis.ssbmorales@gmail.com>
+Date:   Fri Jan 31 10:27:40 2025 -0800
+
+    Filled in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
